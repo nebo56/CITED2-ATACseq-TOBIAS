@@ -124,3 +124,6 @@ JASPAR:
 > *Nucleic Acids Research* 48(D1):D87–D92 (2020).
 > doi:10.1093/nar/gkz1001
 
+## Author
+
+Nejc Haberman, Department of Brain Sciences, Imperial College London.

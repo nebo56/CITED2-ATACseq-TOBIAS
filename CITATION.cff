@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: CITED2-ATACseq-TOBIAS
+message: >-
+  If you use this software, please cite both the software and the
+  associated paper.
+type: software
+authors:
+  - family-names: Haberman
+    given-names: Nejc
+    affiliation: Imperial College London
+repository-code: 'https://github.com/<user>/CITED2-ATACseq-TOBIAS'
+abstract: >-
+  Differential transcription factor footprinting pipeline (TOBIAS,
+  JASPAR 2020) for Cited2 vs GFP ATAC-seq at promoter/TSS regions.
+license: MIT
+preferred-citation:
+  type: article
+  title: >-
+    CITED2 is a druggable epigenetic switch coupling neuronal maturation
+    to regenerative decline
+  authors:
+    - family-names: Müller
+      given-names: Franziska
+    - family-names: McLachlan
+      given-names: Eilidh
+    - family-names: Costa
+      given-names: Ana Catarina
+    - family-names: Qu
+      given-names: Jia
+    - family-names: Haberman
+      given-names: Nejc
+    - family-names: Di Giovanni
+      given-names: Simone
+  journal: EMBO Molecular Medicine
+  year: 2026
+  doi: 10.1038/s44321-026-00385-w

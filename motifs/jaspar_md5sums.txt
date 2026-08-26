@@ -1,0 +1,2 @@
+7837c6fa233b85a560165684b8aac71d  JASPAR2020_CORE_vertebrates_non-redundant_pfms_jaspar.txt
+60d87dabb351150bd6394f35874ca2ea  JASPAR2024_CORE_vertebrates_non-redundant_pfms_jaspar.txt
