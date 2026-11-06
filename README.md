@@ -8,7 +8,7 @@ This repository contains the footprinting pipeline used in:
 
 > Müller F, McLachlan E, Costa AC, Qu J, et al. **CITED2 is a druggable
 > epigenetic switch coupling neuronal maturation to regenerative
-> decline.** *EMBO Molecular Medicine* (2026).
+> decline.** *EMBO Molecular Medicine* 18:1174–1201 (2026).
 > doi:[10.1038/s44321-026-00385-w](https://doi.org/10.1038/s44321-026-00385-w)
 
 The scope is deliberately narrow: everything needed to reproduce the
@@ -50,7 +50,7 @@ be defined over identical regions.
 ## Quick start
 
 ```bash
-git clone https://github.com/<user>/CITED2-ATACseq-TOBIAS.git
+git clone https://github.com/nebo56/CITED2-ATACseq-TOBIAS.git
 cd CITED2-ATACseq-TOBIAS
 
 # 1. edit paths (genome, BAMs, conda env) for your system

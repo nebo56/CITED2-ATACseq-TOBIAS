@@ -1,0 +1,10 @@
+# Large / regenerable files
+motifs/*.txt
+!motifs/jaspar_md5sums.txt
+genome/
+results/
+data/combined_bam/
+*.bw
+*.bam
+*.bai
+*.narrowPeak

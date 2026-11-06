@@ -8,7 +8,7 @@ authors:
   - family-names: Haberman
     given-names: Nejc
     affiliation: Imperial College London
-repository-code: 'https://github.com/<user>/CITED2-ATACseq-TOBIAS'
+repository-code: 'https://github.com/nebo56/CITED2-ATACseq-TOBIAS'
 abstract: >-
   Differential transcription factor footprinting pipeline (TOBIAS,
   JASPAR 2020) for Cited2 vs GFP ATAC-seq at promoter/TSS regions.
@@ -27,10 +27,36 @@ preferred-citation:
       given-names: Ana Catarina
     - family-names: Qu
       given-names: Jia
+    - family-names: Shrestha
+      given-names: Bishal
+    - family-names: Wang
+      given-names: Zheng
+    - family-names: De Virgiliis
+      given-names: Francesco
+    - family-names: Hutson
+      given-names: Thomas Haynes
+    - family-names: Zhou
+      given-names: Luming
+    - family-names: Kong
+      given-names: Guiping
+    - family-names: Chadwick
+      given-names: Jessica S
+    - family-names: La Montanara
+      given-names: Paolo
+    - family-names: Yuan
+      given-names: Zhulin
     - family-names: Haberman
       given-names: Nejc
+    - family-names: Sousa
+      given-names: Monica M
+    - family-names: Palmisano
+      given-names: Ilaria
     - family-names: Di Giovanni
       given-names: Simone
   journal: EMBO Molecular Medicine
   year: 2026
+  month: 4
+  volume: 18
+  start: 1174
+  end: 1201
   doi: 10.1038/s44321-026-00385-w
